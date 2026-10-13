@@ -1,0 +1,8 @@
+N,PySAT (Product/Solver),Google OR-Tools (CP-SAT),Gurobi (ILP)
+16,0.014,0.1931,0.0072
+32,0.0446,0.2214,0.2318
+64,0.2814,0.5678,Error
+128,0.4638,2.2522,Error
+256,2.0153,41.1942,Error
+512,6.1507,52.0144,Timeout
+1000,18.5446,Timeout/Error,Timeout
